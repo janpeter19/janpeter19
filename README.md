@@ -4,6 +4,9 @@
 [here](https://github.com/janpeter19/References/blob/main/Technology_used.md) and about the modelling 
 [here](https://github.com/janpeter19/References/blob/main/Modelling_used.md).
 No installation needed! 
+
+- **Note** Just before Christmas there was some change in the "Conda/Python universe" that make my script not work anymore. I will try to fix it during January. I the meantime you can look at the PDF-version of the notebooks. If you badly want to run notebooks, send me a mail and I can help you with a local Linux installation.
+
 - 💞️ I’m looking to collaborate on expanding the examples of use of Colab. I also tailor-make models of biotechnical processes for your needs on a consultancey basis.
 - 📫 You can reach me at: jan.peter.axelsson@vascaia.se
 
