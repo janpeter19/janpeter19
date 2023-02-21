@@ -7,7 +7,7 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 [here](https://github.com/janpeter19/References/blob/main/Modelling_used.md).
 No installation needed! 
 
-- **Note** The Google Colab VM has in mid January been updated to Ubuntu 20.04 and runs now Python 3.8 and enables us to use the latest version of the key package PyFMI.  This is all good news! 
+- **Note** The Google Colab VM has in mid January been updated to Ubuntu 20.04 and runs now Python 3.8 and enables us to use the latest version of the key package PyFMI.  This is all good news! The software has been updated accordingly.
 
 - 💞️ I’m looking to collaborate on expanding the examples of use of Colab. I also tailor-make models of biotechnical processes for your needs on a consultancey basis. Digital Twins is a catchword these days and that is what I do!
 - 📫 You can reach me at: jan.peter.axelsson@vascaia.se
