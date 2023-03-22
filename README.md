@@ -7,8 +7,7 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 [here](https://github.com/janpeter19/References/blob/main/Modelling_used.md).
 No installation needed! 
 
-- **Note 2023-03-22** There is still a problem with Google Colab VM and PyFMI.  However,  now I have added a link to almost all notebooks for using FMPy instead to run the FMUs. This is still experimental and further improvements will be done in the setup-scripts.  
-Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
+- **Note 2023-03-22** There is still a problem with Google Colab VM and PyFMI.  However,  now I have added a link to almost all notebooks for using FMPy instead to run the FMUs. This is still experimental and further improvements will be done in the setup-scripts.  Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
 - 💞️ I’m looking to collaborate on expanding the examples of use of Colab. I also tailor-make models of biotechnical processes for your needs on a consultancey basis. Digital Twins is a catchword these days and that is what I do!
 - 📫 You can reach me at: jan.peter.axelsson@vascaia.se
