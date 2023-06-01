@@ -12,10 +12,7 @@ No installation needed!
 *    BPL_IEC_operation - show downstream ion exchange chromatography in operation in several typical situations 
 *    BPL_IEC_validation - show downstrean ion exchange chromatograph show similarity with original work
      
-* These notebooks show something of the width of using Bioprocess Library framework for simulation of bioprocesses.  
-
-* The notebooks will be updated with more explaining text gradually during the coming weeks.
-Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
+* These notebooks show something of the width of using Bioprocess Library framework for simulation of bioprocesses. The notebooks will be updated with more explaining text gradually during the coming weeks. Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
 - 💞️ I’m looking to collaborate on expanding the examples of use of Colab. I also tailor-make models of biotechnical processes for your needs on a consultancey basis. Digital Twins is a catchword these days and that is what I do!
 - 📫 You can reach me at: jan.peter.axelsson@vascaia.se
