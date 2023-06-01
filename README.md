@@ -14,7 +14,7 @@ No installation needed!
      
 * These notebooks show something of the width of using Bioprocess Library framework for simulation of bioprocesses. The notebooks will be updated with more explaining text gradually during the coming weeks. Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
-- 💞️ I’m looking to collaborate on expanding the examples of use of Colab. I also tailor-make models of biotechnical processes for your needs on a consultancey basis. Digital Twins is a catchword these days and that is what I do!
+- 💞️ I’m looking to collaborate on expanding the examples of use of Colab. I also tailor-make models of biotechnical processes for your needs on a consultancy basis. Work with processes involves broader data analysis and is a part of my work, and simulation is just one tool, but an important one. Digital Twins is a catchword these days and that is also what I can do!
 
 - 📫 You can reach me at: jan.peter.axelsson@vascaia.se
 
