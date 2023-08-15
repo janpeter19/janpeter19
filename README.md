@@ -7,12 +7,9 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 [here](https://github.com/janpeter19/References/blob/main/Modelling_used.md).
 No installation needed! 
 
-- **Note 2023-06-01** Now the setup scripts using PyFMI works again. They have been updated for Python 3.10 that is now default version for Colab VM since a few weeks. The scripts for FMPy are more robust. Further here are a few new repositories with preliminary notebooks:
-    - BPL_YEAST_COB_Batch - illustrate constraint-based modelling and simulation with FMU and Optlang in combination.
-    - BPL_IEC_operation - show downstream ion exchange chromatography in operation in several typical situations 
-    - BPL_IEC_validation - show downstrean ion exchange chromatograph show similarity with original work
-
-- These notebooks show something of the width of using Bioprocess Library framework for simulation of bioprocesses. The notebooks will be updated with more explaining text gradually during the coming weeks. Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
+- **Note 2023-08-15**
+The Google Colab VM has recently been updated to Ubuntu 22.04 and runs Python 3.10 and enables us to use the latest version of the key package PyFMI. Most FMUs are still made for Ubuntu 20.04 but still works what I can after testing a few notebooks.
+Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
 - 💞️ I’m looking to collaborate on expanding the examples of use of Modelica in Colab. I also tailor-make models of biotechnical processes for your needs on a consultancy basis. Work with processes involves broader data analysis and is a part of my work, and simulation is just one tool, but an important one. Digital Twins is a catchword these days and part of what I do.
 
