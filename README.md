@@ -7,8 +7,8 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 [here](https://github.com/janpeter19/References/blob/main/Modelling_used.md).
 No installation needed! 
 
-- **Note 2023-08-15**
-The Google Colab VM has recently been updated to Ubuntu 22.04 and runs Python 3.10 and enables us to use the latest version of the key package PyFMI. Most FMUs are still made for Ubuntu 20.04 but still works what I can see after testing a few notebooks.
+- **Note 2023-09-13**
+Now several notebooks also include a process diagram. They are generated from GUI configuration using OpenModelica and BPL equipped with icons. This new version of BPL with GUI is under further development. I am also aware of that notebooks with PyFMI do halt for some errors in the package environment. In the meantime, use notebooks with FMPy instead and available in most repositories. 
 Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
 - 💞️ I’m looking to collaborate on expanding the examples of use of Modelica in Colab. I also tailor-make models of biotechnical processes for your needs on a consultancy basis. Work with processes involves broader data analysis and is a part of my work, and simulation is just one tool, but an important one. Digital Twins is a catchword these days and part of what I do.
