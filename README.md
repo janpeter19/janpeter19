@@ -12,7 +12,7 @@ The conference paper "Design ideas behind Bioprocess Library for Modelica" by my
 
   **CONF\_2023\_10\_MODELICA15**  - The repository contains  a few basic examples used for illustration in the paper.
 
-Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
+  Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
 - 💞️ I’m looking to collaborate on expanding the examples of use of Modelica in Colab. I also tailor-make models of biotechnical processes for your needs on a consultancy basis. Work with processes involves broader data analysis and is a part of my work, and simulation is just one tool, but an important one. Digital Twins is a catchword these days and part of what I do.
 
