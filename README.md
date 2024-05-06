@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @janpeter19
-- 👀 I’m interested in Modelica and especially biotechnical applications.
+- 👀 I’m interested in Modelica and especially biotechnical applications, see
+[paper](https://www.researchgate.net/publication/378889007_Design_ideas_behind_Bioprocess_Library_for_Modelica)
 - 🌱 I’m currently learning how to reach out more using Google Colab. I have prepared several 
 [examples](https://github.com/janpeter19/References/blob/main/Examples_used.md)
 for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter notebook and can continue interact using Python and modifiy the simulations and graphs shown. More about the technology used
