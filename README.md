@@ -8,10 +8,9 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 [here](https://github.com/janpeter19/References/blob/main/Modelling_used.md).
 No installation needed! 
 
-- **Note 2024-01-18**
-The conference paper "Design ideas behind Bioprocess Library for Modelica" by myself, and presented at the 15th International Modelica Conference in the fall, you can now find in the proceeding [here](https://ecp.ep.liu.se/index.php/modelica/issue/view/83) on page 453-462.
-
-  **CONF\_2023\_10\_MODELICA15**  - The repository contains  a few basic examples used for illustrations in the paper.
+- **Note 2024-05-96**
+Now the simulations are run with latest Pythona package PyFMI 2.12-0, or alternatively FMPy 0.3.20.
+It seems to work well but let me know if you encounter any problems.
 
   Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
