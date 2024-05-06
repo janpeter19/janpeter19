@@ -9,7 +9,7 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 No installation needed! 
 
 - **Note 2024-05-06**
-Now the simulations are run with latest Pythona package PyFMI 2.12-0, or alternatively FMPy 0.3.20.
+Now the simulations are run with latest Python package PyFMI 2.12-0, or alternatively FMPy 0.3.20.
 It seems to work well but let me know if you encounter any problems.
 
   Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
