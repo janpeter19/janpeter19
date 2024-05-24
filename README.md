@@ -8,9 +8,9 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 [here](https://github.com/janpeter19/References/blob/main/Modelling_used.md).
 No installation needed! 
 
-- **Note 2024-05-22**
-Here is a problem with PyFMI 2.13-0 installation using conda-forge and seems not possible to go back to the earlier version either.
-The problem is reported to the people in charge. In the mean time, use FMPy that works fine. Now Linux FMUs are updated to OpenModelica ver 1.23.0-dev. The FMUs are compiled with recently updated Bioprocess Library 2.2.0.
+- **Note 2024-05-24**
+Now PyFMI 2.13.0 is available again, as well as FMPy 0.3.20, for running the simulations in the notebooks.
+Now Linux FMUs are updated to OpenModelica ver 1.23.0-dev. The FMUs are compiled with recently updated Bioprocess Library 2.2.0. The command line interactions is done with FMU-explore updated to 1.0.0. 
 
   Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
