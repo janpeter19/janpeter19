@@ -10,7 +10,7 @@ No installation needed!
 
 - **Note 2024-05-24**
 Now PyFMI 2.13.0 is available again, as well as FMPy 0.3.20, for running the simulations in the notebooks.
-Now Linux FMUs are updated to OpenModelica ver 1.23.0-dev. The FMUs are compiled with recently updated Bioprocess Library 2.2.0. The command line interactions is done with FMU-explore updated to 1.0.0. 
+Now Linux FMUs are updated to OpenModelica ver 1.23.0-dev. The FMUs are compiled with recently updated Bioprocess Library 2.2.0. The common command-line interactions for both PyFMI and FMPy is done with FMU-explore updated to 1.0.0. 
 
   Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
