@@ -8,9 +8,10 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 [here](https://github.com/janpeter19/References/blob/main/Modelling_used.md).
 No installation needed! 
 
-- **Note 2024-05-24**
-Now PyFMI 2.13.0 is available again, as well as FMPy 0.3.20, for running the simulations in the notebooks.
-Now Linux FMUs are updated to OpenModelica ver 1.23.0-dev. The FMUs are compiled with recently updated Bioprocess Library 2.2.0. The common command-line interactions for both PyFMI and FMPy is done with FMU-explore updated to 1.0.0. 
+- **Note 2024-07-04
+The BPL is updated tp 2.2.1 and the GUI for gasphase is included, see the process diagram for BPL\_YEAST\_AIR Fedbatch DO-control. The gasphase is coloured in grey, while liquid media is as before for nutriens yellow, for cells orange, and for recombinant product violet. The simulation results are identical and the underlying model code only differs in a few variable names. Text material like UsersGuide with References in MSL-style are now also included. Here is a subtle problem with the FMUs that occurs when simulations are re-started at some point and the OpenModelica community works on it, see issue #12561 on their GitHub-site.
+
+Note, Google Colab automatically introduce a code line at the end "Start coding or generate with AI" as some kind of advertisment. It is difficult to take away.
 
   Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
