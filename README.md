@@ -9,7 +9,7 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 No installation needed! 
 
   **Note 2024-07-04**
-The BPL is updated tp 2.2.1 and the GUI for gasphase is included, see the process diagram for BPL\_YEAST\_AIR Fedbatch DO-control. The gasphase is coloured in grey, while liquid media is as before for nutriens yellow, for cells orange, and for recombinant product violet. The simulation results are identical and the underlying model code only differs in a few variable names. Text material like UsersGuide with References in MSL-style are now also included. Here is an old subtle problem with the FMUs that occurs when simulations are re-started at some point. It has nothing to do with update of BPL. The OpenModelica community works on it, see issue #12561 on their GitHub-site. 
+The BPL is updated to 2.2.1 and the GUI for gasphase is included, see the process diagram for BPL\_YEAST\_AIR Fedbatch DO-control. In general, the gasphase is coloured in grey, while liquid media is as before for nutriens yellow, for cells orange, and for recombinant product violet. The simulation results are identical and the underlying model code only differs in a few variable names. Text material like UsersGuide with References in MSL-style are now also included. Here is an old subtle problem with the FMUs that occurs when simulations are re-started at some point. It has nothing to do with update of BPL. The OpenModelica community works on it, see issue #12561 on their GitHub-site. 
 
   Note that Google Colab automatically introduce a code line at the end "Start coding or generate with AI" as some kind of advertisment. It is difficult to take away.
 
