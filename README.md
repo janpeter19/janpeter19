@@ -9,13 +9,11 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 No installation needed! 
 
   **Note 2024-07-20**
-  The GUI for BPL has now reached an important milestone and all applications can be GUI-configured and the notebooks include corresponding process 
-  diagram. The models and results are the same, of course. Recent GUI work:
+  The GUI for BPL has now reached an important milestone and all applications can be GUI-configured and the notebooks include corresponding process diagram. The models and results are the same, of course. Recent GUI work:
 
   * An example of fedbatch cultivation of yeast with control of dissolved oxygen (now also including icons for the gasphase) - see repository BPL\_YEAST\_AIR\_Fedbatch
 
-  * An example pf ion exchange chromotagraphy - see repositories BPL\_IEC\_validation (but BPL\_IEC\_operation needs a fix around scale_volume, 
-  scaling of the time axis).
+  * An example pf ion exchange chromotagraphy - see repositories BPL\_IEC\_validation (but BPL\_IEC\_operation needs a fix around scale_volume, i.e. scaling of the time axis).
 
   OpenModelica 1.23.1 was used. In the fall a subset of GUI for the liquid phase only was validated with Impact 2.1 
 
