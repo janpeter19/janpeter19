@@ -9,7 +9,6 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 No installation needed! 
 
   **Note 2024-07-20**
-
   The GUI for BPL has now reached an important milestone and all applications can be GUI-configured and the notebooks include corresponding process 
   diagram. The models and results are the same, of course. Recent GUI work:
 
