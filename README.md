@@ -17,7 +17,7 @@ No installation needed!
 
   OpenModelica 1.23.1 was used. In the fall a subset of GUI for the liquid phase only was validated with Impact 2.1 
 
-  The issue #12561 with the OpenModelica FMUs still remains.
+  The issue #12561 with the OpenModelica FMUs still remains, and a new for FMPy #679.
 
   Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
