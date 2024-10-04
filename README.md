@@ -8,16 +8,13 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 [here](https://github.com/janpeter19/References/blob/main/Modelling_used.md).
 No installation needed! 
 
-  **Note 2024-07-20**
-  The GUI for BPL has now reached an important milestone and all applications can be GUI-configured and the notebooks include corresponding process diagram. The models and results are the same, of course. Recent GUI work:
+  **Note 2024-10-04**
+  The GUI for BPL ver 2.2.1 is an update with minor adjustments after now longer time usage.
 
-  * An example of fedbatch cultivation of yeast with control of dissolved oxygen (now also including icons for the gasphase) - see repository BPL\_YEAST\_AIR\_Fedbatch
+  Further, the possibility to simulate, change a paraneter, and then continue simulation using simu('cont') now finally works also for 
+  OpenModelica Linux FMUs, see their Github-list of issues #12561. 
 
-  * An example of ion exchange chromotagraphy - see repositories BPL\_IEC\_validation (but BPL\_IEC\_operation needs a fix around scale_volume, i.e. scaling of the time axis).
-
-  OpenModelica 1.23.1 was used. In the fall a subset of GUI for the liquid phase only was validated with Impact 2.1 
-
-  The issue #12561 with the OpenModelica FMUs still remains / fixed nighly build 1.25.0-dev 2024-10-02.
+  OpenModelica nightly build 1.25.0-dev after 2024-10-02 is now used throughout for running notebooks in Google Colab.
 
   Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
