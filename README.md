@@ -9,7 +9,7 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 No installation needed! 
 
   **Note 2024-10-04**
-  The GUI for BPL ver 2.2.1 is an update with minor adjustments after now longer time usage.
+  The GUI for BPL ver 2.2.1 is an update with minor adjustments after now longer of time usage.
 
   Further, the possibility to simulate, change a parameter, and then continue simulation using the command simu('cont'), now finally works also for OpenModelica Linux FMUs, see their Github-list of issues #12561.  The command is part of the simplified interface FMU-explore for the packages PyFMI and FMPy. 
 
