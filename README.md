@@ -8,14 +8,13 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 [here](https://github.com/janpeter19/References/blob/main/Modelling_used.md).
 No installation needed! 
 
-  **Note 2024-10-04**
-  The GUI for BPL ver 2.2.1 is an update with minor adjustments after now longer of time usage.
+   **Note 2024-11-11** 
+   The BPL ver 2.3.0 is now used. The GUI part has been developed in parallell with the main development of the library for more than a year. Now it is 
+   fully integrated and an important consolidating step. Focus has been to use standard GUI facilities and to simplify the code. The main structure of the 
+   code still follows well the outline in section 6 in the paper referred above. The library has been tested mainly with the GUI of OpenModelica and 
+   Impact. 
 
-  Further, the possibility to simulate, change a parameter, and then continue simulation using the command simu('cont'), now finally works also for OpenModelica Linux FMUs, see their Github-list of issues #12561.  The command is part of the simplified interface FMU-explore for the packages PyFMI and FMPy. 
-
-  OpenModelica nightly build 1.25.0-dev after 2024-10-02 is now used throughout for running notebooks in Google Colab.
-
-  Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
+   Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
 - 💞️ I’m looking to collaborate on expanding the examples of use of Modelica in Colab. I also tailor-make models of biotechnical processes for your needs on a consultancy basis. Work with processes involves broader data analysis and is a part of my work, and simulation is just one tool, but an important one. Digital Twins is a catchword these days and part of what I do.
 
