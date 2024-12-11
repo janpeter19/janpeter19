@@ -9,10 +9,7 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 No installation needed! 
 
    **Note 2024-11-11** 
-   The BPL is updated to ver 2.3.0 and now used in all examples. The GUI part has been developed in parallell with the main development of the library for more than a year. Now it is 
-   fully integrated and this update is an important consolidating step. Focus has been to use standard Modelica GUI facilities and to simplify the code. The main structure of the 
-   code still follows well the outline in section 6 in the paper referred above. The library has been tested mainly with the GUI of OpenModelica and 
-   Impact. 
+   The BPL is updated to ver 2.3.0 and now used in all examples. The GUI part has been developed in parallell with the main development of the library for more than a year. Now it is fully integrated and this update is an important consolidating step. Focus has been to use standard Modelica GUI facilities and to simplify the code. The main structure of the code still follows well the outline in section 6 in the paper referred above. The library has been tested mainly with the GUI of OpenModelica and Modelon Impact. 
 
    Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
