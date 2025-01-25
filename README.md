@@ -6,7 +6,12 @@
 for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter notebook and can continue interact using Python and modifiy the simulations and graphs shown. More about the technology used
 [here](https://github.com/janpeter19/References/blob/main/Technology_used.md) and about the modelling 
 [here](https://github.com/janpeter19/References/blob/main/Modelling_used.md).
-No installation needed! 
+No installation needed!
+
+   **Note 2025-01-25**
+   Please use notebooks using FMPy instead of PyFMI. 
+   There is an installation problem with the notebooks using PyFMI and reported and got number #287. 
+      
 
    **Note 2024-11-11** 
    The BPL is updated to ver 2.3.0 and now used in all examples. The GUI part has been developed in parallell with the main development of the library for more than a year. Now it is fully integrated and this update is an important consolidating step. Focus has been to use standard Modelica GUI facilities and to simplify the code. The main structure of the code still follows well the outline in section 6 in the paper referred above. The library has been tested mainly with the GUI of OpenModelica and Modelon Impact. 
