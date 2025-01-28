@@ -10,7 +10,7 @@ No installation needed!
 
    **Note 2025-01-25**
    Please use notebooks using FMPy instead of PyFMI. 
-   There is an installation problem with the notebooks using PyFMI and reported and got number
+   There is an installation problem with the notebooks using PyFMI and reported and got issue number
    [#287.](https://github.com/modelon-community/PyFMI/issues/287) 
       
 
