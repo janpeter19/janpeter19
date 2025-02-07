@@ -8,6 +8,9 @@ for you starting with the repository BPL_TEST2_Batch. Here you follow a Jupyter 
 [here](https://github.com/janpeter19/References/blob/main/Modelling_used.md).
 No installation needed!
 
+   **Note 2025-02-07**
+   Now the issue with running notebooks with PyFMI is resolved and running latest version 2.16.3. 
+
    **Note 2025-01-25**
    Please use notebooks using FMPy instead of PyFMI. 
    There is an installation problem with the notebooks using PyFMI and reported and got issue number
