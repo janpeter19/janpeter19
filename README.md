@@ -12,6 +12,10 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
+   **Note 2024-02-10**
+   Now all scripts are adjusted for Python 3.11 and running either PyFMI 2.16.3 or FMPy 0.3.19. 
+   Further update to Python 3.12 is expected in April according to Google Colab announcement.
+
    **Note 2025-02-07**
    Now the issue with running notebooks with PyFMI is resolved and running latest version 2.16.3. 
 
