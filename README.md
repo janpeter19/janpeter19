@@ -16,15 +16,6 @@ No installation needed!
    Now all scripts are adjusted for Python 3.11 and running either PyFMI 2.16.3 or FMPy 0.3.19. 
    Further update to Python 3.12 is expected in April according to Google Colab announcement.
 
-   **Note 2025-02-07**
-   Now the issue with running notebooks with PyFMI is resolved and running latest version 2.16.3. 
-
-   **Note 2025-01-25**
-   Please use notebooks using FMPy instead of PyFMI. 
-   There is an installation problem with the notebooks using PyFMI and reported and got issue number
-   [#287.](https://github.com/modelon-community/PyFMI/issues/287) 
-      
-
    **Note 2024-11-11** 
    The BPL is updated to ver 2.3.0 and now used in all examples. The GUI part has been developed in parallell with the main development of the library for more than a year. Now it is fully integrated and this update is an important consolidating step. Focus has been to use standard Modelica GUI facilities and to simplify the code. The main structure of the code still follows well the outline in section 6 in the paper referred above. The library has been tested mainly with the GUI of OpenModelica and Modelon Impact. 
 
