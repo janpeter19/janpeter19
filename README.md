@@ -15,7 +15,7 @@ No installation needed!
    **Note 2025-02-17**
    Now all Colab scripts are adjusted for Python 3.11 and running either PyFMI 2.16.3 or FMPy 0.3.22. 
    For FMPy scripts the conda environment is dropped and installation done with pip. This results in much faster setup than before.
-   The two application BPL\_IEC\_operation and BPL\_CHO\_Perfusion\_cspr runs with FMPy 0.3.20 and investigated
+   The two application BPL\_IEC\_operation and BPL\_CHO\_Perfusion\_cspr runs with FMPy 0.3.21 and investigated
    [here](https://github.com/CATIA-Systems/FMPy/issues/742).
    Further update to Python 3.12 is expected in April according to Google Colab announcement.
    The off-line Windows scripts are already running with that version. 
