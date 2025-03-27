@@ -12,16 +12,25 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
-   **Note 2025-02-17**
-   Now all Colab scripts are adjusted for Python 3.11 and running either PyFMI 2.16.3 or FMPy 0.3.22. 
-   For FMPy scripts the conda environment is dropped and installation done with pip. This results in much faster setup than before.
-   The two application BPL\_IEC\_operation and BPL\_CHO\_Perfusion\_cspr runs with FMPy 0.3.21 and investigated
-   [here](https://github.com/CATIA-Systems/FMPy/issues/742).
-   Further update to Python 3.12 is expected in April according to Google Colab announcement.
-   The off-line Windows scripts are already running with that version. 
+  **Note 2025-03-27** Recently i have made some new bioprocess examples and updated some old, within the current notbooks.
 
-   **Note 2024-11-11** 
-   The BPL is updated to ver 2.3.0 and now used in all examples. The GUI part has been developed in parallell with the main development of the library for more than a year. Now it is fully integrated and this update is an important consolidating step. Focus has been to use standard Modelica GUI facilities and to simplify the code. The main structure of the code still follows well the outline in section 6 in the paper referred above. The library has been tested mainly with the GUI of OpenModelica and Modelon Impact. 
+  * BPL\_YEAST\_AIR\_Fedbatch - Here is now a section illustrating the impact of low dissolved oxygen levels in a homogenous bioreactor. 
+    This subject is important for understanding scale-up but clear-cut simple dynamic experiments in the lab scale are difficult to find. 
+    Instead people in the 80s and 90s focused on the more complicated two-reactor setups. These experiments are the focus of a notebook to 
+    be made, before long.
+
+  * BPL\_CHO\_Fedbatch - The model is updated and includes a state for lysed cell mass and the toxic impact that material may have on 
+    specific growth rate. Now the simulations can capture the decline of viable cell mass during later part of cultivation often found.
+
+  * BPL\_CHO\_Perfusion\_cspr - This model is also updated and includes a state for lysed cell mass and toxic impact that the material may 
+    have. The phenomena is however not yet illustrated in this notebook, but the model is there. Try yourself!
+
+  Further, the PDF-version of notebooks have been updated and corrected and now truncation has been eliminated. Each notebook has been 
+  locally printed to a PDF using the package `nbconvert` together with `MikTex` in a Windows environment.
+
+ 
+
+
 
    Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
