@@ -12,7 +12,7 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
-  **Note 2025-03-27** Recently i have made some new bioprocess examples and updated some old, within the current notbooks.
+  **Note 2025-03-27** Recently i have made some new bioprocess examples and updated some old, within the current notebooks.
 
   * BPL\_YEAST\_AIR\_Fedbatch - Here is now a section illustrating the impact of low dissolved oxygen levels in a homogenous bioreactor. 
     This subject is important for understanding scale-up but clear-cut simple dynamic experiments in the lab scale are difficult to find. 
