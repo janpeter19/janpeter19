@@ -12,7 +12,7 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
-  **Note 2025-06-12** Here is some changes in the Colab environment that makes it difficult to run the demo examples.
+  **Note 2025-06-12** Here are some changes in the Colab environment that makes it difficult to run the demo examples.
 
    * PyFMI: The script setting up the environment is very slow. Loading Miniconda used to take 1-2 minuntes but now takes much longer time. Not clear why.
 
