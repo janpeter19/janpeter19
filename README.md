@@ -12,6 +12,14 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
+  **Note 2025-06-12** Here is some changes in the Colab environment that makes it difficult to run the demo examples.
+
+   * PyFMI: The script setting up the environment is very slow. Loading Miniconda used to take 1-2 minuntes but now takes much longer time. Not clear why.
+
+   * FMPy: The script setting up the environment comes to a halt. Follow the instruction and restart the session.  The the script comes to a new halt. Then just choose the next cell cd BPL_ (and the address depens on the application chosen). Then choose Runtime/Run cell and below.
+
+  Further, I also gradually update the FMUs with MSL 4.1.0. For applications using PID-control that needs an update of BPL and will be done later. This updates should not affect the demo examples here. 
+
   **Note 2025-03-27** Recently i have made some new bioprocess examples and updated some old, within the current notebooks.
 
   * BPL\_YEAST\_AIR\_Fedbatch - Here is now a section illustrating the impact of low dissolved oxygen levels in a homogenous bioreactor. 
