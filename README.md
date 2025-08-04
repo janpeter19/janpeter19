@@ -31,10 +31,6 @@ No installation needed!
   Further, the PDF-version of notebooks have been updated and corrected and now truncation has been eliminated. Each notebook has been 
   locally printed to a PDF using the package `nbconvert` together with `MikTex` in a Windows environment.
 
- 
-
-
-
    Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
 - 💞️ I’m looking forward to collaborate on expanding the examples of use of Modelica in Colab. I also tailor-make models of biotechnical processes for your needs on a consultancy basis. Work with processes involves broader data analysis and is a part of my work, and simulation is just one tool, but an important one. Digital Twins is a catchword these days and part of what I do.
