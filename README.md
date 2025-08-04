@@ -12,15 +12,8 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
-  **Note 2025-06-28** Now also the application with PID-control is updated and use BPL 2.3.1. with MSL 4.1.0.
+  **Note 2025-08-04** All applications run with BPL 2.3.1 with MSL 4.1.0, using PyFMI 2.18.0 or FMPy 0.3.25. However, here are three applications that needs the older FMPy 0.3.21 and I will take a dialogue with the vendor. In the near future Colab is expected to upgrade default Ubuntu to 24.04 and may call for recompilations of the FMUs from my side. 
 
-  **Note 2025-06-12** Here are some changes in the Colab environment that makes it difficult to run the demo examples.
-
-   * PyFMI: The script setting up the environment is occasionally very slow. Loading Miniconda used to take 1-2 minuntes but now takes much longer time, but works. Not clear why it is slow.
-
-   * FMPy: The script setting up the environment comes to a halt. Follow the instruction and restart the session.  The the script comes to a new halt. Then just choose the next cell cd BPL_ (and the address depends on the application chosen). Then choose Runtime/Run cell and below.
-
-  Further, I also gradually update the FMUs with MSL 4.1.0. For applications using PID-control that needs an update of BPL and will be done later. This updates should not affect the demo examples here. 
 
   **Note 2025-03-27** Recently i have made some new bioprocess examples and updated some old, within the current notebooks.
 
