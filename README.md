@@ -25,8 +25,6 @@ The Python code for notebook interaction **FMU-explore is updated to 1.0.2.**
 
 All examples run in well newly released PyFMI 2.19.0. You can also use FMPy as before.
 
-  **Note 2025-08-20** All applications run in updated Colab with Python 3.12. In the near future Colab is expected to upgrade default Ubuntu to 24.04 and may call for recompilations of the FMUs from my side. 
-
   **Note 2025-08-04** All applications run in Colab with Python 3.11 with BPL 2.3.1 with MSL 4.1.0, using PyFMI 2.18.0 or FMPy 0.3.25. However, here are three applications that needs the older FMPy 0.3.21 and I will take a dialogue with the vendor, see [#742](https://github.com/CATIA-Systems/FMPy/issues/742)
 
   **Note 2025-03-27** Recently i have made some new bioprocess examples and updated some old, within the current notebooks.
