@@ -12,7 +12,7 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
-  **Note 2025-11-19**
+**Note 2025-11-19**
 The Python code for notebook interaction **FMU-explore is updated to 1.0.2.** 
 
 * The function<code>par()</code>can now also have dictionaries (of parameters) as arguments, for improved convenience. See an example in BPL\_TEST2\_Fedbatch.
