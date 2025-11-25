@@ -12,18 +12,18 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
-**Note 2025-11-19**
+  **Note 2025-11-19**
 The Python code for notebook interaction **FMU-explore is updated to 1.0.2.** 
 
-* The function<code>par()</code>can now also have dictionaries (of parameters) as arguments, for improved convenience. See an example in BPL\_TEST2\_Fedbatch.
+  * The function<code>par()</code>can now also have dictionaries (of parameters) as arguments, for improved convenience. See an example in BPL\_TEST2\_Fedbatch.
 
-* The new functions<code>readParValue()</code> and <code>readParLocation()</code> reads parameters from an excel-sheet. This provide better overview that a script and useful for largers models. See an example in BPL\_CHO\_Fedbatch.
+  * The new functions<code>readParValue()</code> and <code>readParLocation()</code> reads parameters from an excel-sheet. This provide better overview that a script and useful for largers models. See an example in BPL\_CHO\_Fedbatch.
 
-* The FMU-explore code is also simplified under the hood and now global variables are only used around plotting diagrams. This facilitates further development. 
+  * The FMU-explore code is also simplified under the hood and now global variables are only used around plotting diagrams. This facilitates further development. 
 
-* The two underlying dictionaries <code>parDict</code> and <code>stateDict</code> have changed name to <code>parValue</code> and <code>stateValue</code>, but best is to interact with them through <code>par(), init(),</code> <code> disp() and describe()</code> as before. 
+  * The two underlying dictionaries <code>parDict</code> and <code>stateDict</code> have changed name to <code>parValue</code> and <code>stateValue</code>, but best is to interact with them through <code>par(), init(),</code> <code> disp() and describe()</code> as before. 
 
-All examples run well in newly released PyFMI 2.19.0. You can also use FMPy as before.
+  All examples run well in newly released PyFMI 2.19.0. You can also use FMPy as before.
 
   **Note 2025-08-04** All applications run in Colab with Python 3.11 with BPL 2.3.1 with MSL 4.1.0, using PyFMI 2.18.0 or FMPy 0.3.25. However, here are three applications that needs the older FMPy 0.3.21 and I will take a dialogue with the vendor, see [#742](https://github.com/CATIA-Systems/FMPy/issues/742)
 
