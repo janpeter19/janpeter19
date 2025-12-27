@@ -17,7 +17,7 @@ The Python code for notebook interaction **FMU-explore is updated to 1.0.2** and
 
   * The function<code>par()</code>can now also have dictionaries (of parameters) as arguments, for improved convenience. See an example in BPL\_TEST2\_Fedbatch.
 
-  * The new functions<code>readParValue()</code> and <code>readParLocation()</code> reads parameters from an excel-sheet. This provide better overview that a script and useful for largers models. See an example in BPL\_CHO\_Fedbatch.
+  * The new functions<code>readParValue()</code> and <code>readParLocation()</code> reads parameters from an excel-sheet. This provide better overview than a script and useful for largers models. See an example in BPL\_CHO\_Fedbatch.
 
   * The FMU-explore code is also simplified under the hood and now global variables are only used around plotting diagrams. This facilitates further development. 
 
