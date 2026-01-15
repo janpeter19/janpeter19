@@ -12,7 +12,7 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
-  **Note 2026-01-dd**
+  **Note 2026-01-15**
 Now applications run with FMPy 0.3.27. This update fixed a defect in FMPy for Linux and now works also for the application BPL\_TEST2\_Batch\_design\_space. The application BPL\_IEC\_operation still has problems using FMPy in Colab using Linux and the dialog with the vendor continuous.
 
   **Note 2025-11-19**
