@@ -13,11 +13,11 @@ No installation needed!
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
   **Note 2026-01-20**
-Now applications run with latest PyFMI 2.20.0 both in Linux and in Windows. Note that PyFMI has no problems with the applications BPL\_IEC\_operation and BPL\_TEST2\_Perfusion while FMPy 0.3.27 has.
+Now applications run with **latest PyFMI 2.20.0** both in Linux and in Windows. Note that PyFMI has no problems with the applications BPL\_IEC\_operation and BPL\_TEST2\_Perfusion while FMPy 0.3.27 has.
 
 
   **Note 2026-01-15**
-Now applications run with FMPy 0.3.27. This update fixed a defect in FMPy for Linux and now works also for the application BPL\_TEST2\_Batch\_design\_space. The application BPL\_IEC\_operation still has problems using FMPy in Colab using Linux and the dialog with the vendor continuous.
+Now applications run with **latest FMPy 0.3.27.** This update fixed a defect in FMPy for Linux and now works also for the application BPL\_TEST2\_Batch\_design\_space. The application BPL\_IEC\_operation still has problems using FMPy in Colab using Linux and the dialog with the vendor continuous.
 
   **Note 2025-11-19**
 The Python code for notebook interaction **FMU-explore is updated to 1.0.2** and all runs in Python 3.12. 
