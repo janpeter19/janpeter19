@@ -12,6 +12,10 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
+  **Note 2026-03-16**
+Now applications run with **latest PyFMI 2.20.1 and FMPy 0.3.28** in Google Colab with Linux.The application BPL\_IEC\_operation still has problems using FMPy in Colab using Linux and works only for FMPy up to ver 0.3.21. The dialogue with the vendor continues.
+
+
   **Note 2026-01-20**
 Now applications run with **latest PyFMI 2.20.0** both in Linux and in Windows. Note that PyFMI has no problems with the applications BPL\_IEC\_operation and BPL\_TEST2\_Perfusion while FMPy 0.3.27 has.
 
