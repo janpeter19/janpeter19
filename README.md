@@ -13,38 +13,7 @@ No installation needed!
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
   **Note 2026-03-16**
-Now applications run with **latest PyFMI 2.20.1 and FMPy 0.3.28** in Google Colab with Linux. The application BPL\_IEC\_operation still has problems using FMPy and works only up to version 0.3.21. The dialogue with the vendor continues.
-
-  **Note 2025-11-19**
-The Python code for notebook interaction **FMU-explore is updated to 1.0.2** and all runs in Python 3.12. 
-
-  * The function<code>par()</code>can now also have dictionaries (of parameters) as arguments, for improved convenience. See an example in BPL\_TEST2\_Fedbatch.
-
-  * The new functions<code>readParValue()</code> and <code>readParLocation()</code> reads parameters from an excel-sheet. This provide better overview than a script and useful for largers models. See an example in BPL\_CHO\_Fedbatch.
-
-  * The FMU-explore code is also simplified under the hood and now global variables are only used around plotting diagrams. This facilitates further development. 
-
-  * The two underlying dictionaries <code>parDict</code> and <code>stateDict</code> have changed name to <code>parValue</code> and <code>stateValue</code>, but best is to interact with them through <code>par(), init(),</code> <code> disp() and describe()</code> as before. 
-
-  All examples run well in newly released PyFMI 2.19.0. You can also use FMPy as before.
-
-  **Note 2025-08-04** All applications run in Colab with Python 3.11 with BPL 2.3.1 with MSL 4.1.0, using PyFMI 2.18.0 or FMPy 0.3.25. However, here are three applications that needs the older FMPy 0.3.21 and I will take a dialogue with the vendor, see [#742](https://github.com/CATIA-Systems/FMPy/issues/742)
-
-  **Note 2025-03-27** Recently i have made some new bioprocess examples and updated some old, within the current notebooks.
-
-  * BPL\_YEAST\_AIR\_Fedbatch - Here is now a section illustrating the impact of low dissolved oxygen levels in a homogenous bioreactor. 
-    This subject is important for understanding scale-up but clear-cut simple dynamic experiments in the lab scale are difficult to find. 
-    Instead people in the 80s and 90s focused on the more complicated two-reactor setups. These experiments are the focus of a notebook to 
-    be made, before long.
-
-  * BPL\_CHO\_Fedbatch - The model is updated and includes a state for lysed cell mass and the toxic impact that material may have on 
-    specific growth rate. Now the simulations can capture the decline of viable cell mass during later part of cultivation often found.
-
-  * BPL\_CHO\_Perfusion\_cspr - This model is also updated and includes a state for lysed cell mass and toxic impact that the material may 
-    have. The phenomena is however not yet illustrated in this notebook, but the model is there. Try yourself!
-
-  Further, the PDF-version of notebooks have been updated and corrected and now truncation has been eliminated. Each notebook has been 
-  locally printed to a PDF using the package `nbconvert` together with `MikTex` in a Windows environment.
+Now applications run with **latest PyFMI 2.20.1 and FMPy 0.3.28** in Google Colab with Linux. The application BPL\_IEC\_operation still has problems using FMPy and works only up to version 0.3.21. The dialogue with the vendor continues. Now all applications directly start in Google Colab and simplify the interaction.
 
    Earlier notes you find [here](https://github.com/janpeter19/References/blob/main/Notes.md).
 
