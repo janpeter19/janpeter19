@@ -13,7 +13,7 @@ No installation needed!
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
 
-  **Note 2026-07-06** Now applications run with the ltest **FMPy 0.3.30** in Google Colab with Linux. I am happy to see that now also the application BPL\_IEC\_operation also works with this new update of FMPy. However, two new problems arise with applications BPL\_TEST2\_design\_space and BPL\_YEAST\_AIR\_Fedbatch, and these applicatíons worked fine with the previous version of FMPy. The sporadic dialogue with the vendor continues.
+  **Note 2026-07-06** Now applications run with the ltest **FMPy 0.3.30** in Google Colab with Linux. I am happy to see that now also the application BPL\_IEC\_operation also works with this new update of FMPy. However, two new problems arise with applications BPL\_TEST2\_design\_space and BPL\_YEAST\_AIR\_Fedbatch, and these applicatíons worked fine with the previous version of FMPy. The sporadic dialogue with the vendor continues [here](https://github.com/CATIA-Systems/FMPy/issues/742).
 
   **Note 2026-04-14** Now all Linux FMUs are recompiled with **OpenModelica latest stable version 1.26.3** and using BPL 2.3.2.
 
