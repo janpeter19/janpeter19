@@ -12,7 +12,7 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
-  **Note 2026-08-24** Here seems to be a general problem with installing PyFMI that has nothing to do with my work to use the new package FMU_explore. I recommend you to use the notebook using fmpy instead for the time being.
+  **Note 2026-08-24** Here seems to be a general problem with installing PyFMI that has nothing to do with my work to use the new package FMU_explore. The main reason seems to be that from today default Python shifted from 3.12 to 3.13. I recommend you to use the notebook using fmpy instead for the time being and here no problem with the new default Python.
 
   **Note 2026-08-21** The setup-scripts for each application have for a long time had a structure of a specific application part and a general part that I call **FMU\_explore**. Now this general part is imported as a separate module file and placed at a central place. This organisation facilitates future maintenance and further development. The setup files are now two smaller files and the setup takes up a few lines in the notebook for clarity. Now for test just for the application BPL\_TEST2\_Batch. The module is done for PyFMI and will later be done also for FMPy. The version is 1.1.0 and have otherwise the same functionality as before. The ideas behind FMU\_explore you find [here](https://www.openmodelica.org/images/M_images/OpenModelicaWorkshop_2022/1505_Axelsson%202022,%20Design%20aspects%20of%20FMU-explore%20a%20Python%20module%20to%20complement%20PyFMI.pdf).
 
