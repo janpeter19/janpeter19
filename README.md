@@ -12,6 +12,8 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
+  **Note 2026-09-01** Now all applications can run with PyFMI 2.22.0 and FMU_explore 1.1.4 in the Python 3.13 environment.  
+
   **Note 2026-08-28** Now most applications can also run with PyFMI under the new default Python 3.13. These applications are also updated with FMU_explore ver 1.1.1. All applications can also run with FMPy with Python 3.13 with the older version of FMU_explore without problems. Development of the package FMU\_explore continues!
 
   **Note 2026-08-24** Here seems to be a general problem with installing PyFMI that has nothing to do with my work to use the new package FMU_explore. The main reason seems to be that from today default Python shifted from 3.12 to 3.13. I recommend you to use the notebook using fmpy instead for the time being and here no problem with the new default Python.
