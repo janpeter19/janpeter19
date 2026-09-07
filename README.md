@@ -12,6 +12,8 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
+  **Note 2026-09-07** Now FMU_explore 1.1.5 is here and can be used for both PyFMI and FMPy. The notebook for FMPy is adjusted for the application BPL_TEST2_Batch and gradually the notebooks will be updated for the other applications as well. The adjustments for all notebooks with PyFMI are already adjusted.
+
   **Note 2026-09-01** Now all applications can run with PyFMI 2.22.0 and FMU_explore 1.1.4 in the Python 3.13 environment.  
 
   **Note 2026-08-28** Now most applications can also run with PyFMI under the new default Python 3.13. These applications are also updated with FMU_explore ver 1.1.1. All applications can also run with FMPy with Python 3.13 with the older version of FMU_explore without problems. Development of the package FMU\_explore continues!
