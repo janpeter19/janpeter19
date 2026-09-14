@@ -12,7 +12,7 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
-  **Note 2026-09-14** Today FMU\_explore ver 1.2.0 is released. This means that the version is addressed slightly differently from before, see the notebook. The application BPL\_TEST2\_Batch can be run with both pyfmi and fmpy using this released version. The other applications will gradually in the coming days be update in a similar way  
+  **Note 2026-09-14** Today FMU\_explore ver 1.2.0 is released. This means that the version is addressed slightly differently from before, see the notebook. The application BPL\_TEST2\_Batch can be run with both pyfmi and fmpy using this released version. The other applications will gradually in the coming days be update in a similar way.  
 
   **Note 2026-09-07** Now FMU_explore 1.1.5 is here and can be used for both PyFMI and FMPy. The notebook for FMPy is adjusted for the application BPL_TEST2_Batch and gradually the notebooks will be updated for the other applications as well. The adjustments for all notebooks with PyFMI are already in place.
 
