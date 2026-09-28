@@ -12,6 +12,10 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
+  **Note 2026-09-28**
+Now all applications have been run using **FMU\_explore version 1.2.4** and with the new **default VM Ubuntu 24.04.5 LTS**.
+The setup-files for each application are also polished to the Python standard. The latest versions of PyFMI and FMPy have generally been used. However, for FMPy the older version 0.3.29 was needed for two applications as before. I will try to get the developers attention and I hope they think it might be important more generally.
+
   **Note 2026-09-23** I just became aware of that Colab VM now runs by **default Ubuntu 24.04.5 LTS**. The upgrade have likely been made in the first half of September. So far, I have not seen any problems due to this upgrade. The FMUs are made in an Ubuntu 22.04.5 LTS environment but re-compilation seems not needed.
 
   **Note 2026-09-21** Now FMU\_explore **version 1.2.4** is released. It is a maintenance release with focus on code improvements. The applications will be updated with this version of the package as default during the days to come.
