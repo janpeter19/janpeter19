@@ -13,7 +13,7 @@ No installation needed!
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
   **Note 2026-11-06**
-The module fmu\_explore\_oms is further developed and now pre-release **v1.2.7** is out. The function disp() can now be used.
+The module fmu\_explore\_oms is further developed and now pre-release **v1.2.7** is out. The function <code>disp()</code>  can now be used.
 
   **Note 2026-10-28**
 The following maintenance work has been done. The setup of fmpy notebooks are now done more consistently with "uv pip" and improves the setup speed. Further all setup-files have at the end a clean-up section to delete not necessary variables in the workspace after the fmu_explore class module has been populated with this context information about the application. And that item is now called Application (previously called Adapted). Finally here is progress with using the rudimentary module for OMSimulator and a handful of applications can be run. Good to see that **OMSimulator** handle well also the applications that fmpy has documented problems with!
