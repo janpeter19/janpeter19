@@ -12,7 +12,7 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
-**Note 2026-11-19** 
+  **Note 2026-11-19** 
 All applications now run with the latest **OMSimulator 3.0.0.post214**. Exception for application BPL_YEAST_COB_Batch that is dependent on simu('cont') not yet implemented in the module fmu\_expore\_oms for OMSimulator.
 
   **Note 2026-11-06**
