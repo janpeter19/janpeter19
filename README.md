@@ -13,7 +13,7 @@ No installation needed!
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
   **Note 2026-11-20** 
-All applications now run with the latest **OMSimulator 3.0.0.post214**. Exception for application BPL_YEAST_COB_Batch that is dependent on simu('cont') not yet implemented in the module fmu\_expore\_oms for OMSimulator. Further the module **FMU\_explore v1.2.8** is out with update for OMSimulator.
+All applications now run with the latest **OMSimulator 3.0.0.post214**. Exception for application BPL_YEAST_COB_Batch that is dependent on simu('cont') not yet implemented in the module fmu\_expore\_oms for OMSimulator. Further the module **FMU\_explore v1.2.8** pre-release is out with update for OMSimulator.
 
   **Note 2026-11-06**
 The module fmu\_explore\_oms is further developed and now pre-release **v1.2.7** is out. The function <code>disp()</code>  can now be used.
