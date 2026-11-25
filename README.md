@@ -12,6 +12,9 @@ No installation needed!
    [announcements](https://medium.com/google-colab) and the technical
    [release-notes](https://colab.research.google.com/notebooks/relnotes.ipynb).
 
+  **Note 2026-11-25**
+All applications now run with the latest **OMSimulator 3.0.0.post218** and the latest pre-release **FMU_explore v1.2.9**. Now remains to implement <code>simu('cont')</code> that is the next step.
+
   **Note 2026-11-20** 
 All applications now run with the latest **OMSimulator 3.0.0.post214**. Exception for application BPL_YEAST_COB_Batch that is dependent on simu('cont') not yet implemented in the module fmu\_expore\_oms for OMSimulator. Further the module **FMU\_explore v1.2.8** pre-release is out with update for OMSimulator.
 
